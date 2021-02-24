@@ -11,7 +11,7 @@ management:
   endpoints:
     web:
       exposure:
-        include: beans,mappings,metrics,env,loggers,shutdown,medilab-actuator
+        include: beans,mappings,metrics,loggers,shutdown,medilab-actuator
   endpoint:
     shutdown:
       enabled: true
