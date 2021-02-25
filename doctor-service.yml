@@ -9,7 +9,7 @@ server:
   port: 6062
   
 doctor:
-  fee: 450
+  fee: 400
 
 
 management:
